@@ -1,0 +1,90 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 192 176 32 ) ( -192 176 32 ) ( -192 -144 32 ) ch_grass_02_decal 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -192 -144 48 ) ( -192 176 48 ) ( 192 176 48 ) ch_grass_02_decal 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1632 -2032 48 ) ( 2016 -2032 48 ) ( 2016 -2032 32 ) ch_grass_02_decal 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2016 -2032 48 ) ( 2016 -1712 48 ) ( 2016 -1712 32 ) ch_grass_02_decal 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1648 2032 48 ) ( -2032 2032 48 ) ( -2032 2032 32 ) ch_grass_02_decal 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2032 2032 48 ) ( -2032 1712 48 ) ( -2032 1712 32 ) ch_grass_02_decal 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 1
+{
+ ( 1024 96 0 ) ( -864 96 0 ) ( -864 80 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 -2048 544 ) ( 864 -2048 544 ) ( 864 -2048 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2032 80 464 ) ( 2032 96 464 ) ( 2032 96 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 864 2048 512 ) ( -1024 2048 512 ) ( -1024 2048 48 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2048 96 544 ) ( -2048 80 544 ) ( -2048 80 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -864 96 16 ) ( 1024 96 16 ) ( -864 80 16 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 2
+{
+ ( -1024 80 512 ) ( -1024 96 512 ) ( 864 96 512 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 -2048 544 ) ( 864 -2048 544 ) ( 864 -2048 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2032 80 464 ) ( 2032 96 464 ) ( 2032 96 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 864 2048 512 ) ( -1024 2048 512 ) ( -1024 2048 48 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2048 96 544 ) ( -2048 80 544 ) ( -2048 80 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 96 496 ) ( -1024 80 496 ) ( 864 96 496 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 3
+{
+ ( 1024 96 0 ) ( -864 96 0 ) ( -864 80 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 80 512 ) ( -1024 96 512 ) ( 864 96 512 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 -2048 544 ) ( 864 -2048 544 ) ( 864 -2048 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2032 80 464 ) ( 2032 96 464 ) ( 2032 96 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2048 96 544 ) ( -2048 80 544 ) ( -2048 80 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 864 -2032 544 ) ( -1024 -2032 544 ) ( 864 -2032 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 4
+{
+ ( 1024 96 0 ) ( -864 96 0 ) ( -864 80 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 80 512 ) ( -1024 96 512 ) ( 864 96 512 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 -2048 544 ) ( 864 -2048 544 ) ( 864 -2048 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 864 2048 512 ) ( -1024 2048 512 ) ( -1024 2048 48 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2048 96 544 ) ( -2048 80 544 ) ( -2048 80 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2032 80 544 ) ( -2032 96 544 ) ( -2032 80 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 5
+{
+ ( 2016 2000 0 ) ( -2032 2000 0 ) ( -2032 -2064 0 ) lightgrid_volume 64 64 0 32 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2016 -2064 528 ) ( -2016 2000 528 ) ( 2032 2000 528 ) lightgrid_volume 64 64 0 32 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2032 -2096 16 ) ( 2016 -2096 16 ) ( 2016 -2096 0 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2048 -2048 16 ) ( 2048 2016 16 ) ( 2048 2016 0 ) lightgrid_volume 64 64 -32 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2000 2016 16 ) ( -2048 2016 16 ) ( -2048 2016 0 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2064 2000 16 ) ( -2064 -2064 16 ) ( -2064 -2064 0 ) lightgrid_volume 64 64 -32 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 6
+{
+ ( 1008 96 0 ) ( -880 96 0 ) ( -880 80 0 ) sky_sp_airplane 256 256 -16 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1040 80 512 ) ( -1040 96 512 ) ( 848 96 512 ) sky_sp_airplane 256 256 -16 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2016 80 464 ) ( 2016 96 464 ) ( 2016 96 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 848 2048 512 ) ( -1040 2048 512 ) ( -1040 2048 48 ) sky_sp_airplane 256 256 -16 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2064 96 544 ) ( -2064 80 544 ) ( -2064 80 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1040 2032 512 ) ( 848 2032 512 ) ( -1040 2032 48 ) sky_sp_airplane 256 256 -16 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 7
+{
+ ( 1024 96 0 ) ( -864 96 0 ) ( -864 80 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 80 512 ) ( -1024 96 512 ) ( 864 96 512 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1024 -2048 544 ) ( 864 -2048 544 ) ( 864 -2048 80 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2032 80 464 ) ( 2032 96 464 ) ( 2032 96 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 864 2048 512 ) ( -1024 2048 512 ) ( -1024 2048 48 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2016 96 464 ) ( 2016 80 464 ) ( 2016 96 0 ) sky_sp_airplane 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 1
+{
+"angles" "0 90 0"
+"origin" "-16.0 0.0 64.0"
+"classname" "info_player_start"
+}
+// entity 2
+{
+"origin" "0.0 96.0 56.0"
+"classname" "reflection_probe"
+}
